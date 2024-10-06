@@ -2,6 +2,8 @@
 
 **LibraryApi** — это учебный проект, созданный для управления библиотечными ресурсами, включая авторов, книги и экземпляры книг. Он предоставляет API для взаимодействия с данными о книгах и пользователях.
 
+⚠️ **Находится в стадии разработки**: Функциональность и пользовательский интерфейс могут меняться. В будущем ожидаются различные улучшения и новые возможности.
+
 ## Описание
 
 LibraryApi состоит из нескольких сервисов, отвечающих за управление разными аспектами библиотеки:
@@ -23,21 +25,36 @@ LibraryApi состоит из нескольких сервисов, отвеч
 - Регистрация пользователей и аутентификация с использованием JWT
 
 ## Используемые технологии
+
 - ASP.NET Core
 - Entity Framework Core
 - MS SQL Server
 - Microsoft Identity
 - JWT для аутентификации
+- React для UI
 
 ## Примеры работы:
 
--SwaggerUI
-![image](https://github.com/user-attachments/assets/73cb70a4-7016-4458-bf33-4c2d2870e87d)
+- **SwaggerUI**
+  ![SwaggerUI](https://github.com/user-attachments/assets/73cb70a4-7016-4458-bf33-4c2d2870e87d)
 
--Страница регистрации
-![image](https://github.com/user-attachments/assets/4c66780f-9256-40c7-bd12-f9cbcb3a58f5)
+- **Страница регистрации**
+  ![Страница регистрации](https://github.com/user-attachments/assets/4c66780f-9256-40c7-bd12-f9cbcb3a58f5)
 
--Страница авторизации
-![image](https://github.com/user-attachments/assets/e813b95a-23e0-4157-9ac5-34a5aabb90ad)
+- **Страница авторизации**
+  ![Страница авторизации](https://github.com/user-attachments/assets/e813b95a-23e0-4157-9ac5-34a5aabb90ad)
 
+- **Главная страница с книгами**
+  ![Главная страница с книгами](https://github.com/user-attachments/assets/07c5fdeb-83a3-410e-9ee4-26352ab94617)
 
+- **Страница книги**
+  ![Страница книги](https://github.com/user-attachments/assets/932d670e-bff0-4398-bda8-e49008c407e6)
+
+- **Страница с авторами**
+  ![Страница с авторами](https://github.com/user-attachments/assets/d334b11d-de5e-4997-9fc9-237a54b5d98a)
+
+- **Страница автора**
+  ![Страница автора](https://github.com/user-attachments/assets/cd27834c-cdb5-49b0-8f68-0f96716b4ef9)
+
+- **Страница пользователя с книгами**
+  ![Страница пользователя с книгами](https://github.com/user-attachments/assets/cd86390b-0ecd-4a67-9bfb-5b525c398eb7)
